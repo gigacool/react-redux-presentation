@@ -1,0 +1,38 @@
+.tile {
+  background-color: #27d;
+  color: #fff;
+  display: inline-block;
+  height: 90px;
+  margin: 10px 20px 10px 0;
+  width: 150px;
+  transition: all 0.4s;
+
+  &.inactive{
+    background-color: #aaa;
+  }
+
+  &.good{
+    background-color: #27d;
+  }
+
+  &.moderate{
+    background-color: #762bca;
+  }
+
+  &.poor{
+    background-color: #b91a1a;
+  }
+
+  .tile-header {
+    line-height: normal;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .tile-value {
+    font-size: 44px;
+    line-height: 44px;
+    padding-right: 10px;
+    text-align: right;
+  }
+}

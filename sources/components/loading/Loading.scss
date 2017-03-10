@@ -1,0 +1,25 @@
+.loading-bar-container {
+
+  position: relative;
+  height: 6px;
+  max-width: 768px;
+  margin: 50px auto;
+  overflow: hidden;
+
+  .expand {
+    position: absolute;
+    left: -20%;
+    top:0;
+    bottom: 0;
+    width: 20%;
+    border-radius: 4px;
+    background-color: #46529d;
+    animation: loading-effect 1.4s infinite;
+    animation-timing-function: cubic-bezier(0.2, 0.5, .8, 0.5)
+  }
+}
+
+@keyframes loading-effect {
+  from {left: -20%;}
+  to {left: 120%;}
+}

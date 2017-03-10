@@ -1,0 +1,419 @@
+Arizona;Transferability;60011;business-criteria;N/A;2016-03-01;3.04085927973546
+Arizona;Changeability;60012;business-criteria;N/A;2016-03-01;3.15855036357493
+Arizona;Robustness;60013;business-criteria;N/A;2016-03-01;3.07172284211404
+Arizona;Efficiency;60014;business-criteria;N/A;2016-03-01;2.6779694852373
+Arizona;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.13581997305915
+Arizona;Security;60016;business-criteria;N/A;2016-03-01;2.94487380819745
+Arizona;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.11533992607996
+Arizona;Programming Practices;66031;business-criteria;N/A;2016-03-01;2.78368792024798
+Arizona;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.67378696415104
+Arizona;Documentation;66033;business-criteria;N/A;2016-03-01;2.83793468070854
+Arizona;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.5679694852373003
+Big Ben;Transferability;60011;business-criteria;N/A;2016-03-01;2.20431488035167
+Big Ben;Changeability;60012;business-criteria;N/A;2016-03-01;2.18741696145316
+Big Ben;Robustness;60013;business-criteria;N/A;2016-03-01;2.1081162868089
+Big Ben;Efficiency;60014;business-criteria;N/A;2016-03-01;1.96494787809262
+Big Ben;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;2.30203384649887
+Big Ben;Security;60016;business-criteria;N/A;2016-03-01;2.0796089561326
+Big Ben;Total Quality Index;60017;business-criteria;N/A;2016-03-01;2.45533992607996
+Big Ben;Programming Practices;66031;business-criteria;N/A;2016-03-01;2.07198972537635
+Big Ben;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.11503274513436
+Big Ben;Documentation;66033;business-criteria;N/A;2016-03-01;2.22733923376706
+Big Ben;Green IT Index;20140522;business-criteria;N/A;2016-03-01;1.8549478780926199
+BIO;Transferability;60011;business-criteria;N/A;2016-03-01;1.82239491079215
+BIO;Changeability;60012;business-criteria;N/A;2016-03-01;1.89645788440195
+BIO;Robustness;60013;business-criteria;N/A;2016-03-01;2.07145258167583
+BIO;Efficiency;60014;business-criteria;N/A;2016-03-01;2.0165296373632
+BIO;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;2.19712300115501
+BIO;Security;60016;business-criteria;N/A;2016-03-01;2.2450296373632
+BIO;Total Quality Index;60017;business-criteria;N/A;2016-03-01;1.9750296373632
+BIO;Programming Practices;66031;business-criteria;N/A;2016-03-01;2.04324429168521
+BIO;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.10361616255861
+BIO;Documentation;66033;business-criteria;N/A;2016-03-01;1.93024456104885
+BIO;Green IT Index;20140522;business-criteria;N/A;2016-03-01;1.9088099058741197
+Cars;Transferability;60011;business-criteria;N/A;2016-03-01;3.05556224558551
+Cars;Changeability;60012;business-criteria;N/A;2016-03-01;3.1346509224739
+Cars;Robustness;60013;business-criteria;N/A;2016-03-01;3.2808727148994
+Cars;Efficiency;60014;business-criteria;N/A;2016-03-01;2.9510154955064
+Cars;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.36846498281721
+Cars;Security;60016;business-criteria;N/A;2016-03-01;2.91181069731224
+Cars;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.15533992607996
+Cars;Programming Practices;66031;business-criteria;N/A;2016-03-01;2.95635219385749
+Cars;Architectural Design;66032;business-criteria;N/A;2016-03-01;3.05367387630457
+Cars;Documentation;66033;business-criteria;N/A;2016-03-01;3.01532584682549
+Cars;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.8410154955064
+Cash Equity;Transferability;60011;business-criteria;N/A;2016-03-01;3.33918746603259
+Cash Equity;Changeability;60012;business-criteria;N/A;2016-03-01;3.3346613871977
+Cash Equity;Robustness;60013;business-criteria;N/A;2016-03-01;3.48620274897765
+Cash Equity;Efficiency;60014;business-criteria;N/A;2016-03-01;3.38993581786635
+Cash Equity;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.55476101235949
+Cash Equity;Security;60016;business-criteria;N/A;2016-03-01;3.25978995419221
+Cash Equity;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.2590649030831
+Cash Equity;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.29935341428234
+Cash Equity;Architectural Design;66032;business-criteria;N/A;2016-03-01;3.4045178870425
+Cash Equity;Documentation;66033;business-criteria;N/A;2016-03-01;3.34823592201896
+Cash Equity;Green IT Index;20140522;business-criteria;N/A;2016-03-01;3.2799358178663502
+CHOCOLATE;Transferability;60011;business-criteria;N/A;2016-03-01;3.24746594449738
+CHOCOLATE;Changeability;60012;business-criteria;N/A;2016-03-01;3.2118695187429
+CHOCOLATE;Robustness;60013;business-criteria;N/A;2016-03-01;2.99841392487338
+CHOCOLATE;Efficiency;60014;business-criteria;N/A;2016-03-01;2.75951569147663
+CHOCOLATE;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.28896141439624
+CHOCOLATE;Security;60016;business-criteria;N/A;2016-03-01;3.17717825912016
+CHOCOLATE;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.11345596957578
+CHOCOLATE;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.22533923278945
+CHOCOLATE;Architectural Design;66032;business-criteria;N/A;2016-03-01;3.16669647459535
+CHOCOLATE;Documentation;66033;business-criteria;N/A;2016-03-01;3.04025904903825
+CHOCOLATE;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.6495156914766302
+Dream Team;Transferability;60011;business-criteria;N/A;2016-03-01;3.0650296373632
+Dream Team;Changeability;60012;business-criteria;N/A;2016-03-01;2.78650296373632
+Dream Team;Robustness;60013;business-criteria;N/A;2016-03-01;2.8920296373632
+Dream Team;Efficiency;60014;business-criteria;N/A;2016-03-01;2.8465296373632
+Dream Team;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;1.83365810610016
+Dream Team;Security;60016;business-criteria;N/A;2016-03-01;3.0850296373632
+Dream Team;Total Quality Index;60017;business-criteria;N/A;2016-03-01;2.9750296373632
+Dream Team;Programming Practices;66031;business-criteria;N/A;2016-03-01;1.74845091309123
+Dream Team;Architectural Design;66032;business-criteria;N/A;2016-03-01;1.77643125796974
+Dream Team;Documentation;66033;business-criteria;N/A;2016-03-01;1.78800961386964
+Dream Team;Green IT Index;20140522;business-criteria;N/A;2016-03-01;1.6842083907182999
+Financial;Transferability;60011;business-criteria;N/A;2016-03-01;2.78608526472532
+Financial;Changeability;60012;business-criteria;N/A;2016-03-01;2.85910825648947
+Financial;Robustness;60013;business-criteria;N/A;2016-03-01;2.74955796205466
+Financial;Efficiency;60014;business-criteria;N/A;2016-03-01;2.34578230491015
+Financial;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;2.90772238486722
+Financial;Security;60016;business-criteria;N/A;2016-03-01;2.92906421169302
+Financial;Total Quality Index;60017;business-criteria;N/A;2016-03-01;2.88533992607996
+Financial;Programming Practices;66031;business-criteria;N/A;2016-03-01;2.80774941100353
+Financial;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.66802235761519
+Financial;Documentation;66033;business-criteria;N/A;2016-03-01;2.56726879749597
+Financial;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.23578230491015
+Firmeware;Transferability;60011;business-criteria;N/A;2016-03-01;3.06270135916115
+Firmeware;Changeability;60012;business-criteria;N/A;2016-03-01;2.979826046543
+Firmeware;Robustness;60013;business-criteria;N/A;2016-03-01;3.14436508147327
+Firmeware;Efficiency;60014;business-criteria;N/A;2016-03-01;3.02514642984989
+Firmeware;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.23635196160552
+Firmeware;Security;60016;business-criteria;N/A;2016-03-01;3.10766374825727
+Firmeware;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.08753459390416
+Firmeware;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.19246699513762
+Firmeware;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.99569386960497
+Firmeware;Documentation;66033;business-criteria;N/A;2016-03-01;2.76635921309201
+Firmeware;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.91514642984989
+Investment;Transferability;60011;business-criteria;N/A;2016-03-01;2.81899459606546
+Investment;Changeability;60012;business-criteria;N/A;2016-03-01;2.99166917324261
+Investment;Robustness;60013;business-criteria;N/A;2016-03-01;3.05285718658475
+Investment;Efficiency;60014;business-criteria;N/A;2016-03-01;3.24694133217198
+Investment;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.0534129006563
+Investment;Security;60016;business-criteria;N/A;2016-03-01;2.99372392936145
+Investment;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.04587399598861
+Investment;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.10152168928642
+Investment;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.47265951215021
+Investment;Documentation;66033;business-criteria;N/A;2016-03-01;2.43950511911416
+Investment;Green IT Index;20140522;business-criteria;N/A;2016-03-01;3.1369413321719803
+Jurassic Park;Transferability;60011;business-criteria;N/A;2016-03-01;3.0650296373632
+Jurassic Park;Changeability;60012;business-criteria;N/A;2016-03-01;2.71650296373632
+Jurassic Park;Robustness;60013;business-criteria;N/A;2016-03-01;2.3650296373632
+Jurassic Park;Efficiency;60014;business-criteria;N/A;2016-03-01;2.8650296373632
+Jurassic Park;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.33512072987663
+Jurassic Park;Security;60016;business-criteria;N/A;2016-03-01;3.1850296373632
+Jurassic Park;Total Quality Index;60017;business-criteria;N/A;2016-03-01;2.7650296373632
+Jurassic Park;Programming Practices;66031;business-criteria;N/A;2016-03-01;2.92876691424362
+Jurassic Park;Architectural Design;66032;business-criteria;N/A;2016-03-01;3.10849801631085
+Jurassic Park;Documentation;66033;business-criteria;N/A;2016-03-01;2.87597373049918
+Jurassic Park;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.82365139289393
+Lampara;Transferability;60011;business-criteria;N/A;2016-03-01;3.0650296373632
+Lampara;Changeability;60012;business-criteria;N/A;2016-03-01;2.51650296373632
+Lampara;Robustness;60013;business-criteria;N/A;2016-03-01;3.0120296373632
+Lampara;Efficiency;60014;business-criteria;N/A;2016-03-01;3.2965296373632
+Lampara;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.01844195971176
+Lampara;Security;60016;business-criteria;N/A;2016-03-01;3.1850296373632
+Lampara;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.1050296373632
+Lampara;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.1659567993923
+Lampara;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.93341589109384
+Lampara;Documentation;66033;business-criteria;N/A;2016-03-01;2.72025876327303
+Lampara;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.96362708970267
+LOAD;Transferability;60011;business-criteria;N/A;2016-03-01;2.80978014227288
+LOAD;Changeability;60012;business-criteria;N/A;2016-03-01;3.02555923650171
+LOAD;Robustness;60013;business-criteria;N/A;2016-03-01;3.1219690836636
+LOAD;Efficiency;60014;business-criteria;N/A;2016-03-01;3.02672321781161
+LOAD;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.16216450435272
+LOAD;Security;60016;business-criteria;N/A;2016-03-01;3.24379884989116
+LOAD;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.04881842361583
+LOAD;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.00280573235501
+LOAD;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.92480453755237
+LOAD;Documentation;66033;business-criteria;N/A;2016-03-01;2.53749532253633
+LOAD;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.9167232178116103
+Logistics;Transferability;60011;business-criteria;N/A;2016-03-01;2.51447708382938
+Logistics;Changeability;60012;business-criteria;N/A;2016-03-01;2.82888591430924
+Logistics;Robustness;60013;business-criteria;N/A;2016-03-01;2.88621673927655
+Logistics;Efficiency;60014;business-criteria;N/A;2016-03-01;2.89065754717166
+Logistics;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;2.96814943529468
+Logistics;Security;60016;business-criteria;N/A;2016-03-01;2.9802913836924
+Logistics;Total Quality Index;60017;business-criteria;N/A;2016-03-01;2.87916863491993
+Logistics;Programming Practices;66031;business-criteria;N/A;2016-03-01;2.88811219219788
+Logistics;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.86772399627322
+Logistics;Documentation;66033;business-criteria;N/A;2016-03-01;2.62575316287021
+Logistics;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.78065754717166
+PhoneBox;Transferability;60011;business-criteria;N/A;2016-03-01;3.378359391397
+PhoneBox;Changeability;60012;business-criteria;N/A;2016-03-01;3.37004677697887
+PhoneBox;Robustness;60013;business-criteria;N/A;2016-03-01;3.40079141441137
+PhoneBox;Efficiency;60014;business-criteria;N/A;2016-03-01;3.71683848721116
+PhoneBox;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.47422831046811
+PhoneBox;Security;60016;business-criteria;N/A;2016-03-01;3.6729148108524
+PhoneBox;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.45231142992616
+PhoneBox;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.35111056277836
+PhoneBox;Architectural Design;66032;business-criteria;N/A;2016-03-01;3.44481483205202
+PhoneBox;Documentation;66033;business-criteria;N/A;2016-03-01;3.27976813659587
+PhoneBox;Green IT Index;20140522;business-criteria;N/A;2016-03-01;3.60683848721116
+SAXO;Transferability;60011;business-criteria;N/A;2016-03-01;2.8374059166972
+SAXO;Changeability;60012;business-criteria;N/A;2016-03-01;2.82478913625908
+SAXO;Robustness;60013;business-criteria;N/A;2016-03-01;2.70988646537139
+SAXO;Efficiency;60014;business-criteria;N/A;2016-03-01;2.8124553616258
+SAXO;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;2.69818046100295
+SAXO;Security;60016;business-criteria;N/A;2016-03-01;2.87830869276213
+SAXO;Total Quality Index;60017;business-criteria;N/A;2016-03-01;2.77980683537505
+SAXO;Programming Practices;66031;business-criteria;N/A;2016-03-01;2.85014203677286
+SAXO;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.84919841677164
+SAXO;Documentation;66033;business-criteria;N/A;2016-03-01;2.55944210905134
+SAXO;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.7024553616258
+Siphonaptera;Transferability;60011;business-criteria;N/A;2016-03-01;3.03337163831635
+Siphonaptera;Changeability;60012;business-criteria;N/A;2016-03-01;2.94347902766596
+Siphonaptera;Robustness;60013;business-criteria;N/A;2016-03-01;3.01814309767165
+Siphonaptera;Efficiency;60014;business-criteria;N/A;2016-03-01;3.53079102910419
+Siphonaptera;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.31381942969029
+Siphonaptera;Security;60016;business-criteria;N/A;2016-03-01;3.18631255871919
+Siphonaptera;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.10533992607996
+Siphonaptera;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.15236148313856
+Siphonaptera;Architectural Design;66032;business-criteria;N/A;2016-03-01;2.88619498941418
+Siphonaptera;Documentation;66033;business-criteria;N/A;2016-03-01;3.0532068978014
+Siphonaptera;Green IT Index;20140522;business-criteria;N/A;2016-03-01;3.42079102910419
+Six;Transferability;60011;business-criteria;N/A;2016-03-01;3.09860058769161
+Six;Changeability;60012;business-criteria;N/A;2016-03-01;3.38450761665768
+Six;Robustness;60013;business-criteria;N/A;2016-03-01;3.33884451089346
+Six;Efficiency;60014;business-criteria;N/A;2016-03-01;3.32230023382916
+Six;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.30347604192379
+Six;Security;60016;business-criteria;N/A;2016-03-01;3.23963392434709
+Six;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.35990552078414
+Six;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.10857182012593
+Six;Architectural Design;66032;business-criteria;N/A;2016-03-01;3.08939892393069
+Six;Documentation;66033;business-criteria;N/A;2016-03-01;3.26638984130671
+Six;Green IT Index;20140522;business-criteria;N/A;2016-03-01;3.21230023382916
+UCITS;Transferability;60011;business-criteria;N/A;2016-03-01;3.6019904711376
+UCITS;Changeability;60012;business-criteria;N/A;2016-03-01;3.21843152072047
+UCITS;Robustness;60013;business-criteria;N/A;2016-03-01;3.40526091258473
+UCITS;Efficiency;60014;business-criteria;N/A;2016-03-01;3.47438877121514
+UCITS;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;3.51498196954912
+UCITS;Security;60016;business-criteria;N/A;2016-03-01;3.02060635490715
+UCITS;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.16747398085914
+UCITS;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.3403725116604
+UCITS;Architectural Design;66032;business-criteria;N/A;2016-03-01;3.43048871723188
+UCITS;Documentation;66033;business-criteria;N/A;2016-03-01;3.38174664096865
+UCITS;Green IT Index;20140522;business-criteria;N/A;2016-03-01;3.36438877121514
+VICIA;Transferability;60011;business-criteria;N/A;2016-03-01;3.20573668580148
+VICIA;Changeability;60012;business-criteria;N/A;2016-03-01;2.85373594856234
+VICIA;Robustness;60013;business-criteria;N/A;2016-03-01;2.80774691701493
+VICIA;Efficiency;60014;business-criteria;N/A;2016-03-01;3.01885065363356
+VICIA;SEI Maintainability;60015;business-criteria;N/A;2016-03-01;2.96627171869791
+VICIA;Security;60016;business-criteria;N/A;2016-03-01;2.92431106278036
+VICIA;Total Quality Index;60017;business-criteria;N/A;2016-03-01;3.1471256483876
+VICIA;Programming Practices;66031;business-criteria;N/A;2016-03-01;3.01318381542061
+VICIA;Architectural Design;66032;business-criteria;N/A;2016-03-01;3.03101037373987
+VICIA;Documentation;66033;business-criteria;N/A;2016-03-01;2.69482415707785
+VICIA;Green IT Index;20140522;business-criteria;N/A;2016-03-01;2.9088506536335603
+Webgoat;Transferability;60011;business-criteria;N/A;2016-02-15;2.8671429158880404
+Webgoat;Changeability;60012;business-criteria;N/A;2016-02-15;2.6599001265152267
+Webgoat;Robustness;60013;business-criteria;N/A;2016-02-15;2.900077153525455
+Webgoat;Efficiency;60014;business-criteria;N/A;2016-02-15;2.203581026449271
+Webgoat;SEI Maintainability;60015;business-criteria;N/A;2016-02-15;3.1702623588176104
+Webgoat;Security;60016;business-criteria;N/A;2016-02-15;2.3619402684002964
+Webgoat;Total Quality Index;60017;business-criteria;N/A;2016-02-15;2.647351857171878
+Webgoat;Programming Practices;66031;business-criteria;N/A;2016-02-15;2.782985673629222
+Webgoat;Architectural Design;66032;business-criteria;N/A;2016-02-15;2.408283039090108
+Webgoat;Documentation;66033;business-criteria;N/A;2016-02-15;2.3962125649645993
+Financial Accounting;Transferability;60011;business-criteria;N/A;2016-02-13;3.407405456389687
+Financial Accounting;Changeability;60012;business-criteria;N/A;2016-02-13;2.5082753185453526
+Financial Accounting;Robustness;60013;business-criteria;N/A;2016-02-13;2.399829303493919
+Financial Accounting;Efficiency;60014;business-criteria;N/A;2016-02-13;1.4366438356164384
+Financial Accounting;SEI Maintainability;60015;business-criteria;N/A;2016-02-13;3.744699361676015
+Financial Accounting;Security;60016;business-criteria;N/A;2016-02-13;1.6521739130434783
+Financial Accounting;Total Quality Index;60017;business-criteria;N/A;2016-02-13;2.373768705596959
+Financial Accounting;Programming Practices;66031;business-criteria;N/A;2016-02-13;2.856992496924574
+Financial Accounting;Architectural Design;66032;business-criteria;N/A;2016-02-13;1.8250643481412612
+Financial Accounting;Documentation;66033;business-criteria;N/A;2016-02-13;2.896765498652291
+HR Portal;Transferability;60011;business-criteria;N/A;2016-02-04;3.0947811276059745
+HR Portal;Changeability;60012;business-criteria;N/A;2016-02-04;2.996337020238631
+HR Portal;Robustness;60013;business-criteria;N/A;2016-02-04;2.2202619696629124
+HR Portal;Efficiency;60014;business-criteria;N/A;2016-02-04;1.5383403361344539
+HR Portal;SEI Maintainability;60015;business-criteria;N/A;2016-02-04;3.487818363652859
+HR Portal;Security;60016;business-criteria;N/A;2016-02-04;1.6664494406429888
+HR Portal;Total Quality Index;60017;business-criteria;N/A;2016-02-04;2.364438706517405
+HR Portal;Programming Practices;66031;business-criteria;N/A;2016-02-04;2.394310796266459
+HR Portal;Architectural Design;66032;business-criteria;N/A;2016-02-04;3.26498778213549
+HR Portal;Documentation;66033;business-criteria;N/A;2016-02-04;3.5705778875895233
+Recipe System;Transferability;60011;business-criteria;N/A;2016-02-02;2.9723248319002398
+Recipe System;Changeability;60012;business-criteria;N/A;2016-02-02;2.160779724812836
+Recipe System;Robustness;60013;business-criteria;N/A;2016-02-02;3.0934491670378823
+Recipe System;Efficiency;60014;business-criteria;N/A;2016-02-02;2.9146261118655326
+Recipe System;SEI Maintainability;60015;business-criteria;N/A;2016-02-02;3.4113998512308106
+Recipe System;Security;60016;business-criteria;N/A;2016-02-02;3.0466776200441523
+Recipe System;Total Quality Index;60017;business-criteria;N/A;2016-02-02;2.8106863138907228
+Recipe System;Programming Practices;66031;business-criteria;N/A;2016-02-02;2.8741015267417
+Recipe System;Architectural Design;66032;business-criteria;N/A;2016-02-02;2.1552129076422575
+Recipe System;Documentation;66033;business-criteria;N/A;2016-02-02;2.607235761692274
+DriveTo;Transferability;60011;business-criteria;N/A;2016-02-02;3.6106032633532243
+DriveTo;Changeability;60012;business-criteria;N/A;2016-02-02;3.610177798336745
+DriveTo;Robustness;60013;business-criteria;N/A;2016-02-02;3.4574053042258663
+DriveTo;Efficiency;60014;business-criteria;N/A;2016-02-02;3.3275733454191325
+DriveTo;SEI Maintainability;60015;business-criteria;N/A;2016-02-02;3.703412065042449
+DriveTo;Security;60016;business-criteria;N/A;2016-02-02;3.136361869935898
+DriveTo;Total Quality Index;60017;business-criteria;N/A;2016-02-02;3.476997391510803
+DriveTo;Programming Practices;66031;business-criteria;N/A;2016-02-02;3.4209547651634926
+DriveTo;Architectural Design;66032;business-criteria;N/A;2016-02-02;3.6442914694282362
+DriveTo;Documentation;66033;business-criteria;N/A;2016-02-02;3.447858378759466
+Shopizer;Transferability;60011;business-criteria;N/A;2016-01-15;3.1334304542881197
+Shopizer;Changeability;60012;business-criteria;N/A;2016-01-15;3.1300397059567273
+Shopizer;Robustness;60013;business-criteria;N/A;2016-01-15;2.8854695574284426
+Shopizer;Efficiency;60014;business-criteria;N/A;2016-01-15;2.4335990967914496
+Shopizer;SEI Maintainability;60015;business-criteria;N/A;2016-01-15;3.5699406152803794
+Shopizer;Security;60016;business-criteria;N/A;2016-01-15;2.367187965146224
+Shopizer;Total Quality Index;60017;business-criteria;N/A;2016-01-15;2.825053996587993
+Shopizer;Programming Practices;66031;business-criteria;N/A;2016-01-15;2.9045639719420864
+Shopizer;Architectural Design;66032;business-criteria;N/A;2016-01-15;3.0586956637984053
+Shopizer;Documentation;66033;business-criteria;N/A;2016-01-15;2.631037053943935
+Horizon;Transferability;60011;business-criteria;N/A;2016-01-07;3.127383907106431
+Horizon;Changeability;60012;business-criteria;N/A;2016-01-07;3.041024651980126
+Horizon;Robustness;60013;business-criteria;N/A;2016-01-07;3.076560538685545
+Horizon;Efficiency;60014;business-criteria;N/A;2016-01-07;2.8697468560529056
+Horizon;SEI Maintainability;60015;business-criteria;N/A;2016-01-07;3.0971428455798318
+Horizon;Security;60016;business-criteria;N/A;2016-01-07;2.911484097626974
+Horizon;Total Quality Index;60017;business-criteria;N/A;2016-01-07;3.0642003948753995
+Horizon;Programming Practices;66031;business-criteria;N/A;2016-01-07;3.04255901653357
+Horizon;Architectural Design;66032;business-criteria;N/A;2016-01-07;2.9423931969853827
+Horizon;Documentation;66033;business-criteria;N/A;2016-01-07;2.7522192552403397
+Green Energy;Transferability;60011;business-criteria;N/A;2015-01-29;2.652985671150721
+Green Energy;Changeability;60012;business-criteria;N/A;2015-01-29;3.1965578097566705
+Green Energy;Robustness;60013;business-criteria;N/A;2015-01-29;3.1398942402771612
+Green Energy;Efficiency;60014;business-criteria;N/A;2015-01-29;3.38408499072515
+Green Energy;SEI Maintainability;60015;business-criteria;N/A;2015-01-29;3.2934586622824007
+Green Energy;Security;60016;business-criteria;N/A;2015-01-29;3.147135012700038
+Green Energy;Total Quality Index;60017;business-criteria;N/A;2015-01-29;3.18408499072515
+Green Energy;Programming Practices;66031;business-criteria;N/A;2015-01-29;2.887938740123309
+Green Energy;Architectural Design;66032;business-criteria;N/A;2015-01-29;2.772545176356204
+Green Energy;Documentation;66033;business-criteria;N/A;2015-01-29;2.0156935404511453
+Architecture Component;Transferability;60011;business-criteria;N/A;2015-01-02;3.0783739479455288
+Architecture Component;Changeability;60012;business-criteria;N/A;2015-01-02;2.7219704909686735
+Architecture Component;Robustness;60013;business-criteria;N/A;2015-01-02;3.3432237979770028
+Architecture Component;Efficiency;60014;business-criteria;N/A;2015-01-02;3.2738776285370705
+Architecture Component;SEI Maintainability;60015;business-criteria;N/A;2015-01-02;3.2764381016289055
+Architecture Component;Security;60016;business-criteria;N/A;2015-01-02;3.1777243920277676
+Architecture Component;Total Quality Index;60017;business-criteria;N/A;2015-01-02;3.0882912840015924
+Architecture Component;Programming Practices;66031;business-criteria;N/A;2015-01-02;3.2613150402290834
+Architecture Component;Architectural Design;66032;business-criteria;N/A;2015-01-02;2.789793446261252
+Architecture Component;Documentation;66033;business-criteria;N/A;2015-01-02;2.61462273255927
+Data Warehouse system;Transferability;60011;business-criteria;N/A;2015-01-02;3.197438758963248
+Data Warehouse system;Changeability;60012;business-criteria;N/A;2015-01-02;3.0438758963248
+Data Warehouse system;Robustness;60013;business-criteria;N/A;2015-01-02;3.22438758963248
+Data Warehouse system;Efficiency;60014;business-criteria;N/A;2015-01-02;3.040102311500285
+Data Warehouse system;SEI Maintainability;60015;business-criteria;N/A;2015-01-02;3.1601195595850338
+Data Warehouse system;Security;60016;business-criteria;N/A;2015-01-02;3.02469363997897
+Data Warehouse system;Total Quality Index;60017;business-criteria;N/A;2015-01-02;3.16469363997897
+Data Warehouse system;Programming Practices;66031;business-criteria;N/A;2015-01-02;3.424506548646167
+Data Warehouse system;Architectural Design;66032;business-criteria;N/A;2015-01-02;2.885388051499646
+Data Warehouse system;Documentation;66033;business-criteria;N/A;2015-01-02;2.8475245399151827
+WebMapping;Transferability;60011;business-criteria;N/A;2015-01-02;2.700571043303298
+WebMapping;Changeability;60012;business-criteria;N/A;2015-01-02;2.30075433738906
+WebMapping;Robustness;60013;business-criteria;N/A;2015-01-02;2.7190270888299466
+WebMapping;Efficiency;60014;business-criteria;N/A;2015-01-02;2.5135422060224295
+WebMapping;SEI Maintainability;60015;business-criteria;N/A;2015-01-02;2.884680563646669
+WebMapping;Security;60016;business-criteria;N/A;2015-01-02;2.825846467956918
+WebMapping;Total Quality Index;60017;business-criteria;N/A;2015-01-02;2.62770474543214
+WebMapping;Programming Practices;66031;business-criteria;N/A;2015-01-02;2.6369044969693993
+WebMapping;Architectural Design;66032;business-criteria;N/A;2015-01-02;2.135656975107565
+WebMapping;Documentation;66033;business-criteria;N/A;2015-01-02;2.397181273361853
+Training program;Transferability;60011;business-criteria;N/A;2014-11-04;2.685425115771192
+Training program;Changeability;60012;business-criteria;N/A;2014-11-04;2.8130359002362524
+Training program;Robustness;60013;business-criteria;N/A;2014-11-04;2.7845262054699074
+Training program;Efficiency;60014;business-criteria;N/A;2014-11-04;2.7546239071742478
+Training program;SEI Maintainability;60015;business-criteria;N/A;2014-11-04;3.4166697843827736
+Training program;Security;60016;business-criteria;N/A;2014-11-04;2.7593280349163187
+Training program;Total Quality Index;60017;business-criteria;N/A;2014-11-04;2.748675196202669
+Training program;Programming Practices;66031;business-criteria;N/A;2014-11-04;2.7243343193534737
+Training program;Architectural Design;66032;business-criteria;N/A;2014-11-04;2.1433577466907434
+Training program;Documentation;66033;business-criteria;N/A;2014-11-04;2.4655643665402582
+ECommerce;Transferability;60011;business-criteria;N/A;2012-11-13;3.1434432565451274
+ECommerce;Changeability;60012;business-criteria;N/A;2012-11-13;3.525647064472851
+ECommerce;Robustness;60013;business-criteria;N/A;2012-11-13;2.947371659099872
+ECommerce;Efficiency;60014;business-criteria;N/A;2012-11-13;2.7764041778865254
+ECommerce;SEI Maintainability;60015;business-criteria;N/A;2012-11-13;3.2822532622151557
+ECommerce;Security;60016;business-criteria;N/A;2012-11-13;2.730810095736642
+ECommerce;Total Quality Index;60017;business-criteria;N/A;2012-11-13;2.8319846381861344
+ECommerce;Programming Practices;66031;business-criteria;N/A;2012-11-13;3.031825756537291
+ECommerce;Architectural Design;66032;business-criteria;N/A;2012-11-13;3.272508169207181
+ECommerce;Documentation;66033;business-criteria;N/A;2012-11-13;2.672276701353222
+Supply Chain;Transferability;60011;business-criteria;N/A;2012-11-05;3.412421196217114
+Supply Chain;Changeability;60012;business-criteria;N/A;2012-11-05;2.4297580329703035
+Supply Chain;Robustness;60013;business-criteria;N/A;2012-11-05;2.185325943059532
+Supply Chain;Efficiency;60014;business-criteria;N/A;2012-11-05;3.300474004330977
+Supply Chain;SEI Maintainability;60015;business-criteria;N/A;2012-11-05;3.575691795206437
+Supply Chain;Security;60016;business-criteria;N/A;2012-11-05;2.2371552376748096
+Supply Chain;Total Quality Index;60017;business-criteria;N/A;2012-11-05;2.1463561101042994
+Supply Chain;Programming Practices;66031;business-criteria;N/A;2012-11-05;2.6936948124230904
+Supply Chain;Architectural Design;66032;business-criteria;N/A;2012-11-05;2.4533939312732005
+Supply Chain;Documentation;66033;business-criteria;N/A;2012-11-05;2.9890421453944724
+HR Management System;Transferability;60011;business-criteria;N/A;2012-10-27;3.0386584157883187
+HR Management System;Changeability;60012;business-criteria;N/A;2012-10-27;2.6150390316743826
+HR Management System;Robustness;60013;business-criteria;N/A;2012-10-27;2.449093047631188
+HR Management System;Efficiency;60014;business-criteria;N/A;2012-10-27;3.093357910597684
+HR Management System;SEI Maintainability;60015;business-criteria;N/A;2012-10-27;3.404985564487244
+HR Management System;Security;60016;business-criteria;N/A;2012-10-27;2.3412504626651494
+HR Management System;Total Quality Index;60017;business-criteria;N/A;2012-10-27;2.391018947154335
+HR Management System;Programming Practices;66031;business-criteria;N/A;2012-10-27;3.0563918843288866
+HR Management System;Architectural Design;66032;business-criteria;N/A;2012-10-27;2.34854908664374
+HR Management System;Documentation;66033;business-criteria;N/A;2012-10-27;2.8256643767018743
+WebSheep;Transferability;60011;business-criteria;N/A;2012-09-19;2.9820121418583962
+WebSheep;Changeability;60012;business-criteria;N/A;2012-09-19;1.7391902968990713
+WebSheep;Robustness;60013;business-criteria;N/A;2012-09-19;2.4909786495895707
+WebSheep;Efficiency;60014;business-criteria;N/A;2012-09-19;2.0916902990017396
+WebSheep;SEI Maintainability;60015;business-criteria;N/A;2012-09-19;3.3402488022538654
+WebSheep;Security;60016;business-criteria;N/A;2012-09-19;2.2842513005904586
+WebSheep;Total Quality Index;60017;business-criteria;N/A;2012-09-19;3.0630582179585955
+WebSheep;Programming Practices;66031;business-criteria;N/A;2012-09-19;2.6335281310602716
+WebSheep;Architectural Design;66032;business-criteria;N/A;2012-09-19;2.6797661252235927
+WebSheep;Documentation;66033;business-criteria;N/A;2012-09-19;2.487727594710242
+Billing platforms;Transferability;60011;business-criteria;N/A;2012-09-10;3.3346654734263415
+Billing platforms;Changeability;60012;business-criteria;N/A;2012-09-10;3.260004200268817
+Billing platforms;Robustness;60013;business-criteria;N/A;2012-09-10;3.0858019538147063
+Billing platforms;Efficiency;60014;business-criteria;N/A;2012-09-10;3.927971232637817
+Billing platforms;SEI Maintainability;60015;business-criteria;N/A;2012-09-10;3.6260577311180806
+Billing platforms;Security;60016;business-criteria;N/A;2012-09-10;3.2032057710597144
+Billing platforms;Total Quality Index;60017;business-criteria;N/A;2012-09-10;3.0184421138242103
+Billing platforms;Programming Practices;66031;business-criteria;N/A;2012-09-10;3.3916152806829425
+Billing platforms;Architectural Design;66032;business-criteria;N/A;2012-09-10;3.5040550061705806
+Billing platforms;Documentation;66033;business-criteria;N/A;2012-09-10;2.846721380729932
+Employee Portal;Transferability;60011;business-criteria;N/A;2012-08-07;3.629436743405826
+Employee Portal;Changeability;60012;business-criteria;N/A;2012-08-07;3.511954160882044
+Employee Portal;Robustness;60013;business-criteria;N/A;2012-08-07;3.5109042128351042
+Employee Portal;Efficiency;60014;business-criteria;N/A;2012-08-07;2.3125
+Employee Portal;SEI Maintainability;60015;business-criteria;N/A;2012-08-07;3.586318308776407
+Employee Portal;Security;60016;business-criteria;N/A;2012-08-07;3.5638671145949985
+Employee Portal;Total Quality Index;60017;business-criteria;N/A;2012-08-07;3.306842105263158
+Employee Portal;Programming Practices;66031;business-criteria;N/A;2012-08-07;3.125
+Employee Portal;Architectural Design;66032;business-criteria;N/A;2012-08-07;3.523647816349384
+Employee Portal;Documentation;66033;business-criteria;N/A;2012-08-07;3.691172272342867
+Recipe Portal;Changeability;60012;business-criteria;N/A;2012-08-07;3.0480130035983826
+Recipe Portal;Robustness;60013;business-criteria;N/A;2012-08-07;3.1845557490698555
+Recipe Portal;Efficiency;60014;business-criteria;N/A;2012-08-07;3.513111920483027
+Recipe Portal;SEI Maintainability;60015;business-criteria;N/A;2012-08-07;3.4661155153990655
+Recipe Portal;Security;60016;business-criteria;N/A;2012-08-07;3.187008257930215
+Recipe Portal;Total Quality Index;60017;business-criteria;N/A;2012-08-07;3.164216070869496
+Recipe Portal;Programming Practices;66031;business-criteria;N/A;2012-08-07;3.161471820868915
+Recipe Portal;Architectural Design;66032;business-criteria;N/A;2012-08-07;3.0934763610765534
+Recipe Portal;Documentation;66033;business-criteria;N/A;2012-08-07;3.071456463829549
+Quantlib;Transferability;60011;business-criteria;N/A;2012-05-29;3.1154490379394297
+Quantlib;Changeability;60012;business-criteria;N/A;2012-05-29;3.114006013500393
+Quantlib;Robustness;60013;business-criteria;N/A;2012-05-29;2.482564799490527
+Quantlib;Efficiency;60014;business-criteria;N/A;2012-05-29;3.1148898687718254
+Quantlib;SEI Maintainability;60015;business-criteria;N/A;2012-05-29;3.74795006646579
+Quantlib;Security;60016;business-criteria;N/A;2012-05-29;2.9290479408189394
+Quantlib;Total Quality Index;60017;business-criteria;N/A;2012-05-29;2.482564799490527
+Quantlib;Programming Practices;66031;business-criteria;N/A;2012-05-29;3.11588646002758
+Quantlib;Architectural Design;66032;business-criteria;N/A;2012-05-29;2.35576647624627
+Quantlib;Documentation;66033;business-criteria;N/A;2012-05-29;3.0272062215800495

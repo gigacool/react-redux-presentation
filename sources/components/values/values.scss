@@ -1,0 +1,63 @@
+.values {
+  position:absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 560px;
+
+
+  .value {
+    display: inline-block;
+    position: relative;
+    height: 60px;
+    margin-left: 10px;
+    padding: 0 10px;
+    text-align:center;
+
+
+    .comparing-header {
+      line-height: 22px;
+      color:#b0b0b0;
+    }
+
+    .comparing-value {
+      line-height: 60px - 22px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: 500;
+      color:#aaa;
+      position: relative;
+      display: inline-block;
+      transition: all 0.6s;
+
+      &::after {
+        display: block;
+        position: absolute;
+        content: "←";
+        z-index: 10;
+        border-radius: 5px;
+        right: -16px;
+        top: 2px;
+        opacity: 0.3;
+        transition: all 0.6s;
+      }
+
+      &.better::after {
+        color: #27d;
+        transform: rotate(135deg);
+      }
+
+      &.same::after {
+        color: #aaa;
+        transform: rotate(180deg);
+      }
+
+      &.worst::after {
+        color: #b91a1a;
+        transform: rotate(225deg);
+      }
+    }
+
+  }
+
+}

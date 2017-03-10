@@ -1,0 +1,21 @@
+.tile {
+  background-color: #27d;
+  color: #fff;
+  display: inline-block;
+  height: 90px;
+  margin: 10px 20px 10px 0;
+  width: 150px;
+
+  .tile-header {
+    line-height: normal;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .tile-value {
+    font-size: 44px;
+    line-height: 44px;
+    padding-right: 10px;
+    text-align: right;
+  }
+}

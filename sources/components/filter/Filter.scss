@@ -1,0 +1,33 @@
+.filter-input {
+  position: relative;
+  max-width: 250px;
+  float: right;
+  margin-bottom: 10px;
+
+  input {
+    display: block;
+    border: none;
+    outline: none;
+    border-bottom: solid 1px #000;
+    width: 250px;
+    padding: 10px 0 6px 0;
+    box-sizing: border-box;
+    background: none;
+    font-size: 14px;
+    transition: all 0.4s;
+
+    &:focus { border-bottom: solid 1px #3498db; }
+  }
+
+}
+
+@media (max-width: 768px){
+  // IPAD - 768 x 1024
+  .filter-input {
+    max-width: 200px;
+    margin-bottom: 10px;
+    input {
+      width: 200px;
+    }
+  }
+}
