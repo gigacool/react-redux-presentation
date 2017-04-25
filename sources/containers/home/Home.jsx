@@ -12,6 +12,7 @@ export class Home extends React.Component {
   static propTypes = { };
 
   componentWillMount() {
+    console.log('will mount ?')
     if (!this.props.fetched) {
       this.props.fetchApplications();
     }

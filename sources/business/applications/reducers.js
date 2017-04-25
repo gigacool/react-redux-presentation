@@ -1,3 +1,9 @@
+import { normalize, schema } from 'normalizr';
+
+const ApplicationSchema = new schema.Entity('applications', {
+  id: '',
+  name:'name',
+});
 
 function applyFilter(applications, filter) {
   let visibleAppsLength = 0;
@@ -10,20 +16,22 @@ function applyFilter(applications, filter) {
 }
 
 function updateScores(applications) {
-  const visibleApps = applications.filter((application)=>{
-    return application.visible
+  const visibleApps = applications.filter((application) => {
+    return application.visible;
   });
   let aggregate = visibleApps.reduce((result, application) => {
-    for (let key in application.results){
+    for (let key in application.results) {
       if (typeof result[key] === 'undefined') {
         result[key] = application.results[key];
-      } else {
+      }
+      else {
         result[key] = result[key] + application.results[key];
       }
     }
     return result;
   }, {});
-  for (let key in aggregate){
+
+  for(let key in aggregate) {
     aggregate[key] = aggregate[key] / visibleApps.length;
   }
   const results = [
